@@ -1,0 +1,11 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.52.0",
+    "sharp": "^0.34.2"
+  }
+}
